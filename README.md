@@ -66,12 +66,6 @@ Although the internal structure may evolve, the project is conceptually divided 
 
 * **Language & SDK:** OpenJDK 24.0.1
 
-* **AI Tools Used:**
-
-  * Codex (GPT coding assistant)
-  * Claude AI
-  * Perplexity AI
-
 * **Documentation Source:**
 
   * [FEN Specification (Chess Programming Wiki)](https://www.chessprogramming.org/Forsyth-Edwards_Notation)
