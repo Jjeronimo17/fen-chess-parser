@@ -1,4 +1,3 @@
-Aquí tienes una versión mucho más completa, profesional y atractiva de tu README para GitHub. Mantiene tu idea original, pero mejora redacción, estructura y nivel técnico 👇
 
 ---
 
